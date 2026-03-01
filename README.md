@@ -18,8 +18,6 @@ A **full-stack web application** to monitor landslide risk in real-time using en
   - Donut/pie chart for risk levels (LOW, MEDIUM, HIGH)  
 - Supports **city name** or **GPS coordinates (lat,lon)** input  
 - Live updating charts every few seconds  
-- Dark theme with neon highlights for professional look  
-
 ---
 
 ## **Technologies Used**
