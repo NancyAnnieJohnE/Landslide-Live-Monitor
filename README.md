@@ -88,3 +88,6 @@ Frontend runs at: http://localhost:3000
  - Frontend only: Can be deployed on GitHub Pages, Netlify, or Vercel
  - Full-stack (frontend + backend): Use Render, Railway, or Heroku
  - Update the backend API URL in client/src/App.js before deployment
+
+##Demo and Document Link
+https://drive.google.com/drive/folders/1wVWx7P_pTs2zm4zoCE_uzrWCHenIuzhs?usp=drive_link
