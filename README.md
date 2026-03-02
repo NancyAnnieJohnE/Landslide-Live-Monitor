@@ -12,12 +12,23 @@ A **full-stack web application** to monitor landslide risk in real-time using en
   - Temperature (°C)  
   - Slope (°)  
   - Vibration (arbitrary units)  
-- Interactive dashboard with:  
-  - Info cards for each parameter  
-  - Line charts for trends over time  
-  - Donut/pie chart for risk levels (LOW, MEDIUM, HIGH)  
-- Supports **city name** or **GPS coordinates (lat,lon)** input  
-- Live updating charts every few seconds  
+- Anomaly Detection
+Identifies abnormal patterns in environmental and structural parameters that indicate potential landslides.
+
+- Risk Classification
+Classifies monitored areas into Low, Moderate, and High Risk for better decision-making.
+
+- Visual Dashboard
+Displays maps, graphs, and charts showing current risk levels and trends over time.
+
+- Alerts & Notifications (Optional / future expansion)
+Sends warnings to authorities or residents when a high-risk condition is detected.
+
+- Infrastructure Health Analysis
+Evaluates the operational condition of urban slopes and nearby infrastructure to support maintenance and safety planning.
+
+- Data-Driven Insights
+Provides historical analysis and trends to predict future risks and plan preventive actions.
 ---
 
 ## **Technologies Used**
