@@ -1,5 +1,5 @@
 # Landslide-Live-Monitor
-A **full-stack web application** to monitor landslide risk in real-time using environmental parameters. The dashboard provides live data visualization, trend analysis, and risk assessment for any city or GPS coordinates worldwide.
+A **full-stack web application** to monitor landslide risk in real-time using environmental parameters. The dashboard provides live data visualization, trend analysis, and risk assessment for any city or GPS coordinates worldwide using API.
  
 
 ---
@@ -12,22 +12,22 @@ A **full-stack web application** to monitor landslide risk in real-time using en
   - Temperature (°C)  
   - Slope (°)  
   - Vibration (arbitrary units)  
-- Anomaly Detection
+- Anomaly Detection: 
 Identifies abnormal patterns in environmental and structural parameters that indicate potential landslides.
 
-- Risk Classification
+- Risk Classification: 
 Classifies monitored areas into Low, Moderate, and High Risk for better decision-making.
 
-- Visual Dashboard
+- Visual Dashboard: 
 Displays maps, graphs, and charts showing current risk levels and trends over time.
 
-- Alerts & Notifications (Optional / future expansion)
+- Alerts & Notifications (Optional / future expansion): 
 Sends warnings to authorities or residents when a high-risk condition is detected.
 
-- Infrastructure Health Analysis
+- Infrastructure Health Analysis: 
 Evaluates the operational condition of urban slopes and nearby infrastructure to support maintenance and safety planning.
 
-- Data-Driven Insights
+- Data-Driven Insights: 
 Provides historical analysis and trends to predict future risks and plan preventive actions.
 ---
 
